@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Agenda de estudiantes</string>
+    <string name="btnCrear">Crear</string>
+    <string name="hint_numero_control">Numero de control:</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_Carrera">Carrera:</string>
+    <string name="hint_semestre">Semestre:</string>
+    <string name="hint_grupo">Grupo:</string>
+    <string name="buton_guardar">Guardar registro</string>
+    <string name="menu_nuevo">Nuevo registro</string>
+</resources>
